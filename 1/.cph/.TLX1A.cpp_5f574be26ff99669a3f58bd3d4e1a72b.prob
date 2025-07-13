@@ -1,0 +1,1 @@
+{"name":"Local: TLX1A","url":"c:\\Compte\\1\\TLX1A.cpp","tests":[{"id":1752427744410,"input":"5\n4\n2\n4\n3\n2","output":"4\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Compte\\1\\TLX1A.cpp","group":"local","local":true}
